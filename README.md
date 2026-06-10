@@ -2,7 +2,7 @@
 A web-based Bus Booking System developed using Java, JSP, Servlets, JDBC, and MySQL. The application enables users to search buses, select seats, manage bookings, view booking history, and confirm reservations through an intuitive and user-friendly interface.
 # Online Bus Booking System
 
-A web-based Bus Booking System developed using Java, JSP, Servlets, JDBC, and MySQL. The application allows users to search buses, select seats, book tickets, view booking history, and manage reservations through a simple and user-friendly interface.
+A full-featured online bus reservation system built with Java, JSP, Servlets, JDBC, and MySQL. Users can search available buses, select seats, book tickets, and manage their travel bookings through an interactive and user-friendly web interface..
 
 ## 🚀 Features
 
